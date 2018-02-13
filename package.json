@@ -9,7 +9,7 @@
     },
     "keywords": [
         "redis",
-        "ioredis"
+        "ioredis",
         "promise",
         "when",
         "q",
