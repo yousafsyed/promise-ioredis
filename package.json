@@ -16,7 +16,7 @@
         "bluebird",
         "then"
     ],
-    "author": "Maksym Brieiev",
+    "author": "Maksym Brieiev, Yousaf Syed",
     "license": "MIT",
     "dependencies": {
         "redis": "*",
