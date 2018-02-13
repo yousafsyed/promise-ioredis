@@ -1,7 +1,7 @@
 'use strict';
 
-var redis = require('redis'),
-    redisCmds = require('redis-commands').list;
+const redis = require('ioredis');
+const redisCmds = require('redis-commands').list;
 
 function createCb(resolve, reject) {
     return function (err, value) {
