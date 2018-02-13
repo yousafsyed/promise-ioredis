@@ -1,6 +1,6 @@
 {
     "name": "promise-ioredis",
-    "version": "0.0.5",
+    "version": "0.0.1",
     "description": "Tiny library that adds promise awareness to ioredis",
     "main": "index.js",
     "repository": {
