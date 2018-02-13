@@ -1,14 +1,15 @@
 {
-    "name": "promise-redis",
+    "name": "promise-ioredis",
     "version": "0.0.5",
-    "description": "Tiny library that adds promise awareness to node_redis",
+    "description": "Tiny library that adds promise awareness to ioredis",
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/maxbrieiev/promise-redis"
+        "url": "https://github.com/yousafsyed/promise-ioredis"
     },
     "keywords": [
         "redis",
+        "ioredis"
         "promise",
         "when",
         "q",
